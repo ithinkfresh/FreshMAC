@@ -15,7 +15,7 @@ Enter your password to allow the MAC address change
 
 Enter the MAC address you want to spoof
 
-
+Re-connect wifi
 
 TO REVERT TO DEFAULT: 
 Reboot your computer.
