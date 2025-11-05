@@ -5,8 +5,11 @@ Save to Desktop as FreshMAC.sh
 Disconnect your Wifi (DO NOT DISABLE WIFI)
 
 Run Terminal commands
+----------------------------
 chmod +x ~/Desktop/FreshMAC.sh
+----------------------------
 sudo ~/Desktop/FreshMAC.sh
+----------------------------
 
 Enter your password to allow the MAC address change
 
